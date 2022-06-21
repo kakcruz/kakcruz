@@ -29,3 +29,4 @@ Me chamo Karol Cruz, desenvolvedora full stack, mas, apaixonada assumida por Fro
  </div>
   
 
+![Snake animation](https://github.com/kakcruz/kakcruz/blob/output/github-contribution-grid-snake.svg)
