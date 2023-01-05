@@ -16,6 +16,7 @@ Me chamo Karol Cruz, desenvolvedora full stack, mas, apaixonada assumida por Fro
    <img align="center" alt="kakcruz-Scss" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
   <img align="center" alt="kakcruz-Php" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
   <img align="center" alt="kakcruz-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="kakcruz-vuejs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="kakcruz-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">    
    <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=ccc7c7">  
