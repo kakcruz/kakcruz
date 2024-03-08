@@ -29,5 +29,3 @@ Me chamo Karol Cruz, desenvolvedora full stack, mas, apaixonada assumida por Fro
   <a href="https://www.linkedin.com/in/karoline-cruz-2802b61a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
   
-
-![Snake animation](https://github.com/kakcruz/kakcruz/blob/output/github-contribution-grid-snake.svg)
