@@ -61,7 +61,6 @@ Evoluindo cada vez mais como AI Engineer, aprofundando em:
    <img align="center" alt="kakcruz-vuejs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="kakcruz-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">    
-   <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=ccc7c7">  
    <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" />
@@ -70,6 +69,8 @@ Evoluindo cada vez mais como AI Engineer, aprofundando em:
   <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="kakcruz-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+          
           
           
           
