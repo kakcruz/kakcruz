@@ -15,7 +15,7 @@ Hoje trabalho criando agentes de IA que integram LLMs com APIs, workflows e sist
 - Orquestração de workflows inteligentes
 - Construção de soluções com foco em negócio (não só código)
 
----
+
 
 ## ⚙️ Stack principal
 
