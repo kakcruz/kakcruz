@@ -1,11 +1,11 @@
 ## Saudações Terraquéos 👽 🖖🏽
-# 👋 Olá, eu sou a Karol Cruz (kakcruz)
+# 👋 Olá, eu sou a Karoline Cruz (kakcruz)
 
 Engenheira de IA focada em construir automações inteligentes e soluções reais de negócio.
 
 Hoje trabalho criando agentes de IA que integram LLMs com APIs, workflows e sistemas corporativos, automatizando processos e reduzindo tarefas manuais.
 
----
+
 
 ## 🧠 O que eu faço
 
