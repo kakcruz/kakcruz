@@ -1,5 +1,52 @@
 ## Saudações Terraquéos 👽 🖖🏽
-Me chamo Karol Cruz, desenvolvedora full stack, mas, apaixonada assumida por Front-End/UXdesigner! 
+# 👋 Olá, eu sou a Karol Cruz (kakcruz)
+
+Engenheira de IA focada em construir automações inteligentes e soluções reais de negócio.
+
+Hoje trabalho criando agentes de IA que integram LLMs com APIs, workflows e sistemas corporativos, automatizando processos e reduzindo tarefas manuais.
+
+---
+
+## 🧠 O que eu faço
+
+- Criação de agentes de IA (LLMs + regras + ferramentas)
+- Automação de processos com n8n e Flowise
+- Integração com APIs (REST, webhooks, JWT)
+- Orquestração de workflows inteligentes
+- Construção de soluções com foco em negócio (não só código)
+
+---
+
+## ⚙️ Stack principal
+
+- JavaScript / TypeScript
+- Node.js
+- n8n / Flowise
+- OpenAI (LLMs, prompt engineering, tool calling)
+- MongoDB / PostgreSQL
+- Vue.js / Angular / WordPress
+
+---
+
+## 💡 Diferencial
+
+Tenho background em Frontend + SEO + CRO, então além de construir sistemas inteligentes, também penso em:
+
+- Performance
+- Experiência do usuário (UX)
+- Impacto real no negócio
+
+---
+
+## 🚀 Atualmente
+
+Evoluindo cada vez mais como AI Engineer, aprofundando em:
+- Python
+- Arquitetura de IA
+- Agentes mais complexos e escaláveis
+
+---
+
   
  <div style="display: inline_block"><br>
   <img align="center" alt="kakcruz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
