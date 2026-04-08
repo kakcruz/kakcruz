@@ -5,6 +5,7 @@ Engenheira de IA focada em construir automações inteligentes e soluções reai
 
 Hoje trabalho criando agentes de IA que integram LLMs com APIs, workflows e sistemas corporativos, automatizando processos e reduzindo tarefas manuais.
 
+---
 
 
 ## 🧠 O que eu faço
@@ -15,6 +16,7 @@ Hoje trabalho criando agentes de IA que integram LLMs com APIs, workflows e sist
 - Orquestração de workflows inteligentes
 - Construção de soluções com foco em negócio (não só código)
 
+---
 
 
 ## ⚙️ Stack principal
