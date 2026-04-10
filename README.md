@@ -1,5 +1,5 @@
-## Saudações Terraquéos 👽 🖖🏽
-# 👋 Olá, eu sou a Karoline Cruz (kakcruz)
+# Saudações Terraquéos 👽 🖖🏽
+## Eu sou a Karoline Cruz (kakcruz)
 
 Engenheira de IA focada em construir automações inteligentes e soluções reais de negócio.
 
