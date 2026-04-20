@@ -26,7 +26,7 @@ Hoje trabalho criando agentes de IA que integram LLMs com APIs, workflows e sist
 - n8n / Flowise
 - OpenAI (LLMs, prompt engineering, tool calling)
 - MongoDB / PostgreSQL
-- Vue.js / Angular / WordPress
+- Vue.js / Angular / WordPress / React
 
 ---
 
